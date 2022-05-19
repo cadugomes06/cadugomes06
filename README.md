@@ -2,10 +2,12 @@
 <!--
 **cadugomes06/cadugomes06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carlos Eduardo</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,  I'm Carlos Eduardo</h1>
 
-- 🔥 Junior Web Developer.
-
+- 🔥 Junior Web Developer. 
+- 
+- 🌱 I’m currently learning React.js 
+- 
 - 🔭 passionate about development and technology.
 
 - ⚡ Dilemma: jiu-jitsu + development == super lifestyle;
@@ -23,13 +25,10 @@
 <br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
-
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/mwlite/in/carlos-eduardo-258821181" target="_blank"></a>
+<a href="https://linkedin.com/in/carlos-eduardo-258821181" target="_blank"></a>
 <a href="https://instagram.com/gomes.cadu" target="_blank"></a>
-</p>
-
-
+ </p>
 <!--
 **cadugomes06/cadugomes06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
