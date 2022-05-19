@@ -24,7 +24,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🦲 &nbsp;Social Links
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/carlos-eduardo-258821181" target="_blank"></a>
    <img align="center" src="https://img.shields.io/badge/-carloseduardo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
