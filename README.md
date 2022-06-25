@@ -4,27 +4,27 @@
 -->
 <h1 align="left">Hi,  I'm Carlos Eduardo</h1>
 
-- 🔥  Web Developer. 
+<p>- 🔥  Web Developer. </p>
 
-- 🌱 I’m currently learning React.js
+<p>- 🌱 I’m currently learning React.js</p>
  
-- 🔭 passionate about development and technology.
+<p>- 🔭 passionate about development and technology.</p>
 
-- ⚡ Dilemma: jiu-jitsu + development == super lifestyle;
+<p>- ⚡ Dilemma: jiu-jitsu + development == super lifestyle;</p>
 <br><br>
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack! <br></br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;</br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;</br>
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;</br>
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;</br>
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;</br>
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;</br>
 
 <br><br>
 
-## 🦲 &nbsp;Social Links
+Social Links
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/carlos-eduardo-258821181" target="_blank"></a>
    <img align="center" src="https://img.shields.io/badge/-carloseduardo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
