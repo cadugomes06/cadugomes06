@@ -20,16 +20,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;</br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;</br>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</br>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;</br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+</br>
 
 Social Links
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/carlos-eduardo-258821181" target="_blank"></a>
    <img align="center" src="https://img.shields.io/badge/-carloseduardo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-
-
 <a href="https://instagram.com/gomes.cadu" target="_blank"></a>
  <img align="center" src="https://img.shields.io/badge/-gomes.cadu-05122A?style=flat&logo=instagram" alt="instagram"/>
  </p>
