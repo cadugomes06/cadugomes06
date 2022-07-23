@@ -4,7 +4,7 @@
 -->
 <h1 align="left">Hi,  I'm Carlos Eduardo</h1>
 
-<p>- 🔥  Web Developer. </p>
+<p>- 🔥  Web Developer Junior. </p>
 
 <p>- 🌱 I’m currently learning React.js</p>
  
