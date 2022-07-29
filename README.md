@@ -4,13 +4,14 @@
 -->
 <h1 align="left">Hi,  I'm Carlos Eduardo</h1>
 
-<p>- 🔥  Web Developer Junior. </p>
+<p>- 🔥  Web Developer Junior.<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"></p>
 
 <p>- 🌱 I’m currently learning React.js</p>
  
 <p>- 🔭 passionate about development and technology.</p>
 
 <p>- ⚡ Dilemma: jiu-jitsu + development == super lifestyle;</p>
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack! <br></br>
