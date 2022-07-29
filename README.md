@@ -35,13 +35,13 @@
 
 Social Links
 <p align="left" style="background:yellow">
- <a href="#" alt="Gmail">
+ <a href="cadu.010808@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cadu.010808@gmail.com" /></a>
  
-<a href="#" alt="Linkedin">
+<a href="https://www.linkedin.com/in/carlos-eduardo-258821181/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-258821181/" /></a>
   
-   <a href="#" alt="Instagram">
+   <a href="https://www.instagram.com/gomes.cadu/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gomes.cadu/"/></a>
  </p>
 
