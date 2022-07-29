@@ -35,7 +35,7 @@
 
 Social Links
 <p align="left" style="background:yellow">
- <a href="cadu.010808@gmail.com" alt="Gmail">
+ <a href="[cadu.010808@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=cadu.010808@gmail.com" /></a>
  
 <a href="https://www.linkedin.com/in/carlos-eduardo-258821181/" alt="Linkedin">
