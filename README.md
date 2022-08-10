@@ -10,7 +10,7 @@
  
 <p>- 🔭 passionate about development and technology.</p>
 
-<p>- ⚡ Dilemma: jiu-jitsu + development == super lifestyle;</p>
+<p>- ⚡ Dilemma (jiu-jitsu + development === super lifestyle)<p>
 
 <br><br>
 
