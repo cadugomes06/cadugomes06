@@ -9,9 +9,6 @@
 <p>- 🌱 I’m currently learning React.js</p>
  
 <p>- 🔭 passionate about development and technology.</p>
-
-<p>- ⚡ Dilemma (jiu-jitsu + development === super lifestyle)<p>
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack! <br></br>
