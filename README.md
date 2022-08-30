@@ -9,7 +9,6 @@
 <p>- 🌱 I’m currently learning React.js</p>
  
 <p>- 🔭 passionate about development and technology.</p>
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack! <br></br>
 
