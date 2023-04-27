@@ -4,7 +4,7 @@
 -->
 <h1 align="left">Hi,  I'm Carlos Eduardo</h1>
 
-<p>- 🔥  Web Developer Junior.<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"></p>
+<p>- 🔥  Front End Developer. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"></p>
 
 <p>- 🌱 I’m currently learning React.js</p>
  
