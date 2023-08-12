@@ -2,7 +2,7 @@
 <!--
 **cadugomes06/cadugomes06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="left">Hi,  I'm Carlos Eduardo</h1>
+<h1 align="left">Hi there,  I'm Carlos Eduardo</h1>
 
 <p>- 🔥  Front End Developer. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"></p>
 
