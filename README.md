@@ -43,7 +43,7 @@ Social Links
 </a>
 
 <a href="https://www.linkedin.com/in/carlos-eduardo-258821181/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-258821181/" />
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/carlos-eduardo-258821181/](https://www.linkedin.com/in/carlos-eduardo-gomes-258821181/)" />
 </a>
 
 <a href="https://www.instagram.com/gomes.cadu/" target="_blank" alt="Instagram">
